@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <button id="button">下载</button>
+  <script>
+    document.getElementById('button').addEventListener('click', function() {
+      window.open('itms-services:///?action=download-manifest&url=https://github.com/xiaofeiyun/downloadApp/blob/main/manifest_agency_release.plist', '_self')
+    })
+  </script>
+</body>
+</html>
