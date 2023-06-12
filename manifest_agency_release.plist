@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0"> 
+  <dict> 
+    <key>items</key>  
+    <array> 
+      <dict> 
+        <key>assets</key>  
+        <array> 
+          <dict> 
+            <key>kind</key>  
+            <string>software-package</string>  
+            <key>url</key>  
+            <string>https://appxup.obs.cn-north-4.myhuaweicloud.com/namespace/nhcbs2-vplus-sit/app/download/agency_ios_release_2.9.7.ipa</string> 
+          </dict>  
+          <dict> 
+            <key>kind</key>  
+            <string>display-image</string>  
+            <key>url</key>  
+            <string>http://sit.nhcbs2.fangodata.com/app_down/img/agent_small.png</string> 
+          </dict>  
+          <dict> 
+            <key>kind</key>  
+            <string>full-size-image</string>  
+            <key>url</key>  
+            <string>http://sit.nhcbs2.fangodata.com/app_down/img/agent_large.png</string> 
+          </dict> 
+        </array>  
+        <key>metadata</key>  
+        <dict> 
+          <key>bundle-identifier</key>  
+          <string>com.chanjue.nhcbs.agency</string>  
+          <key>bundle-version</key>  
+          <string>2.9.7</string>  
+          <key>kind</key>  
+          <string>software</string>  
+          <key>title</key>  
+          <string>汇金好房</string> 
+        </dict> 
+      </dict> 
+    </array> 
+  </dict> 
+</plist>
